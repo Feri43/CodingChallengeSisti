@@ -1,0 +1,92 @@
+/* Stili Font */
+.m-plus-rounded-1c-regular {
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  /* Stili Globali */
+  html {
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top left;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+  }
+  
+  /* Stili Logo */
+  .logo {
+    width: 45%;
+    display: block;
+    margin: auto;
+  }
+  
+  /* Stili Sub-Logo */
+  .sub-logo {
+    color: greenyellow;
+    font-size: xx-large;
+  }
+  
+  /* Stili Header */
+  header {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Stili Container */
+  .container {
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 25px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 800px;
+  }
+  
+  /* Stili Navigazione */
+  nav {
+    text-align: center;
+    background-color: greenyellow;
+    padding: 10px;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+  }
+  
+  /* Stile Titoli */
+  h2 {
+    display: inline-block;
+    color: white;
+    padding: 5px;
+    margin-bottom: 1px;
+  }
+  
+  /* Stile Classe "scooters" */
+  .scooters {
+    color: white;
+    font-size: medium;
+  }
+  
+  /* Stile Classe "indicator" */
+  .indicator {
+    display: block;
+    padding: 15px;
+    border-radius: 10px;
+  }
+
+  /* Stili Indicatori Individuali */
+  #first {
+    background-color: rgba(249, 191, 59);
+    width: 300px;
+  } 
+  #second {
+    background-color: rgb(89, 247, 50);
+    width: 600px;
+  }
+  #third {
+    background-color: rgb(247, 50, 50);
+    width: 100px;
+  }
+  
